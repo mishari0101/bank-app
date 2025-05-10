@@ -1,3 +1,0 @@
-10001,mishari,1234,5000.0
-transactions:Deposited5000.0
-10002,ass,4321,0

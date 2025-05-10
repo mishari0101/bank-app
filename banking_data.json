@@ -1,0 +1,29 @@
+{
+    "accounts": {
+        "1001": {
+            "name": "Mishari Das",
+            "balance": 1000.0,
+            "password_hash": "2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6",
+            "transactions": [
+                {
+                    "timestamp": "2025-05-10 11:35:12",
+                    "type": "Initial Deposit",
+                    "amount": 1000.0
+                }
+            ]
+        },
+        "1002": {
+            "name": "hassan",
+            "balance": 12345.0,
+            "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "transactions": [
+                {
+                    "timestamp": "2025-05-10 11:38:55",
+                    "type": "Initial Deposit",
+                    "amount": 12345.0
+                }
+            ]
+        }
+    },
+    "next_account_number": 1003
+}

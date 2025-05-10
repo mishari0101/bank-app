@@ -1,0 +1,26 @@
+{
+    "accounts": {
+        "10001": {
+            "name": "hassan mishari",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "balance": 0.0,
+            "transactions": []
+        },
+        "10002": {
+            "name": "mishari",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "balance": 0.0,
+            "transactions": []
+        },
+        "10003": {
+            "name": "h",
+            "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+            "balance": 19000.0,
+            "transactions": [
+                "Deposited \u20b920000.0",
+                "Withdrew \u20b91000.0"
+            ]
+        }
+    },
+    "next_account_number": 10004
+}

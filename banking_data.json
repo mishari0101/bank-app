@@ -2,28 +2,70 @@
     "accounts": {
         "1001": {
             "name": "Mishari Das",
-            "balance": 1000.0,
+            "balance": 1030.22,
             "password_hash": "2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6",
             "transactions": [
                 {
                     "timestamp": "2025-05-10 11:35:12",
                     "type": "Initial Deposit",
                     "amount": 1000.0
+                },
+                {
+                    "timestamp": "2025-05-16 15:55:27",
+                    "type": "Interest Applied",
+                    "amount": 15.0
+                },
+                {
+                    "timestamp": "2025-05-16 15:55:49",
+                    "type": "Interest Applied",
+                    "amount": 15.22
                 }
             ]
         },
         "1002": {
             "name": "hassan",
-            "balance": 12345.0,
+            "balance": 12718.12,
             "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
             "transactions": [
                 {
                     "timestamp": "2025-05-10 11:38:55",
                     "type": "Initial Deposit",
                     "amount": 12345.0
+                },
+                {
+                    "timestamp": "2025-05-16 15:55:27",
+                    "type": "Interest Applied",
+                    "amount": 185.17
+                },
+                {
+                    "timestamp": "2025-05-16 15:55:49",
+                    "type": "Interest Applied",
+                    "amount": 187.95
+                }
+            ]
+        },
+        "1003": {
+            "name": "hassan mishari",
+            "balance": 41209.0,
+            "password_hash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+            "transactions": [
+                {
+                    "timestamp": "2025-05-16 15:54:25",
+                    "type": "Initial Deposit",
+                    "amount": 40000.0
+                },
+                {
+                    "timestamp": "2025-05-16 15:55:27",
+                    "type": "Interest Applied",
+                    "amount": 600.0
+                },
+                {
+                    "timestamp": "2025-05-16 15:55:49",
+                    "type": "Interest Applied",
+                    "amount": 609.0
                 }
             ]
         }
     },
-    "next_account_number": 1003
+    "next_account_number": 1004
 }
